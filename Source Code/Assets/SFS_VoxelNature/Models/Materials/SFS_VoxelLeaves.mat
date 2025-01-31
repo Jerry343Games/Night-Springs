@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFS_VoxelLeaves
+  m_Shader: {fileID: 4800000, guid: a38fd976d476c91489f75ecc02e4eade, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlbedoTexture:
+        m_Texture: {fileID: 2800000, guid: 06b39d6e104f2f04fb86b19a91dd32e6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AutumnTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorPalette:
+        m_Texture: {fileID: 2800000, guid: 761a900f12a64b0438fcf104abc43cb3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorPalette1:
+        m_Texture: {fileID: 2800000, guid: 31a47f2f3a358f94e83563af5de98a45, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 31a47f2f3a358f94e83563af5de98a45, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NOISYTEXTURAAAA:
+        m_Texture: {fileID: 2800000, guid: 40f41934d9d74de47a03c23a77163c4c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTexture:
+        m_Texture: {fileID: 2800000, guid: 19252cf12fbfd034385c2c649730c39c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTexture1:
+        m_Texture: {fileID: 2800000, guid: 40f41934d9d74de47a03c23a77163c4c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTexture2:
+        m_Texture: {fileID: 2800000, guid: ce9bb14b228947843bbbfa209919ce70, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SummerTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WindNoiseTexture:
+        m_Texture: {fileID: 2800000, guid: f3bce3b2128bbdb46aaa20cbdbb834f1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _BendAmount: 0.01
+    - _BendAmount1: 0.05
+    - _BendDirection: -0.9
+    - _Float1: -1
+    - _Float4: 1.74
+    - _Float5: 1.29
+    - _Float6: 1.9
+    - _Metallic: 0
+    - _PaletteContrast: 1.3
+    - _PaletteContrast1: 1.3
+    - _SCAAAAAALE: 0.1
+    - _SPEEEEED: 20
+    - _Smoothness: 0
+    - _TestDirection: 0.5876395
+    - _TextureContrast: 1
+    - _WAEEEEVEEEEE: 62.25
+    - _WINDAMOUNTE: 103.96
+    - _WINNNNNDSPEEEED: 111.21
+    - _WindDirection: 3.5
+    - _WindDirection1: 0.3
+    - _WindDirectionX: 1
+    - _WindDirectionY: 1
+    - _WindForce: 0.015
+    - _WindSpeed: 0.3
+    - _WindSpeed1: 1
+    - _WindSpeed2: 0.3
+    - _WindVariations: 0
+    - _WindVariations1: 0
+    - _WindVariations2: 0.5
+    - __dirty: 0
+    - _whatisthis: 0.46
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorPaletteTint: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorPaletteTint1: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TextureTint: {r: 1, g: 1, b: 1, a: 1}
+    - _YAxisOffset: {r: 0, g: 0, b: 0, a: 0}
+    - _YAxisOffset1: {r: 0, g: 0, b: 0, a: 0}

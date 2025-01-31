@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFS_VoxelDiffuse
+  m_Shader: {fileID: 4800000, guid: 9efeef052ec3bcd46b5bf6a0079692fa, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _GLOSSYREFLECTIONS_OFF
+  - _SPECULARHIGHLIGHTS_OFF
+  - _VOXELEDGES_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlbedoTexture:
+        m_Texture: {fileID: 2800000, guid: 06b39d6e104f2f04fb86b19a91dd32e6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorPalette:
+        m_Texture: {fileID: 2800000, guid: 761a900f12a64b0438fcf104abc43cb3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorPalette2:
+        m_Texture: {fileID: 2800000, guid: 31a47f2f3a358f94e83563af5de98a45, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Detail:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 31a47f2f3a358f94e83563af5de98a45, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTexture:
+        m_Texture: {fileID: 2800000, guid: ce9bb14b228947843bbbfa209919ce70, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _AmbientOcclusion: 0
+    - _Amplitude: 0.25
+    - _AnimationSpeed: 4.46
+    - _BumpScale: 1
+    - _Contrast: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Float0: 0
+    - _Freq: 3.1
+    - _Frequency: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 0
+    - _LightWindSpeed: 0.14
+    - _Metallic: 0
+    - _Mode: 0
+    - _NoiseSize: -0.45
+    - _OcclusionStrength: 1
+    - _PaletteContrast: 1.3
+    - _PaletteContrast2: 1.3
+    - _Parallax: 0.02
+    - _SSSSize: -0.1
+    - _Smoothness: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 0
+    - _SrcBlend: 1
+    - _Steepness: 1
+    - _TextureContrast: 1
+    - _UVSec: 0
+    - _VoxelEdges: 1
+    - _VoxelEdgesEnabled: 1
+    - _VoxelEdgesThickness: 1
+    - _WindForce: 0
+    - _WindRandomVariations: 0
+    - _WindScroll: 0
+    - _WindSpeed: 0.45
+    - _WindSpeed2: 0
+    - _WindVariations: 0
+    - _WireSmoothness: 3
+    - _WireThickness: 100
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _AlbedoColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorPaletteTint: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorPaletteTint2: {r: 1, g: 1, b: 1, a: 1}
+    - _Direction: {r: 1.73, g: 0.82, b: 0.51, a: 1}
+    - _Emission: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _LightPoint: {r: 0, g: 134.14, b: -60.07, a: 0}
+    - _PaletteTint: {r: 1, g: 1, b: 1, a: 1}
+    - _SSSColor: {r: 0.7924528, g: 0.7924528, b: 0.7924528, a: 0}
+    - _SpecColor: {r: 0, g: 0, b: 0, a: 1}
+    - _TextureTint: {r: 1, g: 1, b: 1, a: 1}
+    - _VoxelEdgesColor: {r: 1, g: 1, b: 1, a: 1}
+    - _WireColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []

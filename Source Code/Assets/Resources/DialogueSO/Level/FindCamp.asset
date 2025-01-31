@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb6ec9680ce1a19458af3704b4a6b2a7, type: 3}
+  m_Name: FindCamp
+  m_EditorClassIdentifier: 
+  fullText: "A campsite? / Pages of an unrecognizable manuscript scattered across
+    the ground / So, this is where you\u2019ve been hiding during your disappearance?
+    /.../ There\u2019s also a box here / The shipping address... 221B Clayton Street
+    / Hmm... / Whoever sent this package, anything tied to the church is worth noting
+    /"
+  delimiter: 47
+  displayDuration: 4

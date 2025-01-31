@@ -1,0 +1,14 @@
+﻿---------- StarvingFox Studio - Voxel Nature ---------- 
+--------------------DOCUMENTATION--------------------
+
+Recommended Terrain Shader : Default-Terrain-Diffuse
+Matching tiling for the terrain texture : 8x8
+
+To move the models according to a voxel grid, set your grid and snap settings to 0,1. (Edit/Grid and Snap Settings)
+
+Note : The water shader renders differently in the scene view and in the game view, check the game view to see what it really looks like.
+
+----- Switching Between Render Pipelines
+
+To use URP, import the new materials by opening the corresponding package in SFS_VoxelNature/Models/Materials/RenderingPipelines.
+Make sure to toggle the Opaque Texture and Depth Texture settings in your render pipeline settings for the water shader to work properly.

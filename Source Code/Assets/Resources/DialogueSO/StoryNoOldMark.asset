@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb6ec9680ce1a19458af3704b4a6b2a7, type: 3}
+  m_Name: StoryNoOldMark
+  m_EditorClassIdentifier: 
+  fullText: "\u4E0B\u6C34\u9053\u6CA1\u6709\u8FD9\u4E2A\u8BB0\u53F7\u72EC\u7279\u7684\u7518\u677E\u9999\u5473/\u4F46\u662F\u6709\u53E6\u4E00\u79CD\u9999\u6599\u7684\u5473\u9053/\u8FD8\u6709\u54EA\u4E9B\u7EBF\u7D22\u662F\u6211\u9057\u6F0F\u7684\u5417/"
+  delimiter: 47
+  displayDuration: 2.2

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb6ec9680ce1a19458af3704b4a6b2a7, type: 3}
+  m_Name: FindMark
+  m_EditorClassIdentifier: 
+  fullText: "This symbol... / It carries the scent of spikenard, an alchemical spice
+    / I\u2019ve seen it in the papers, it belongs to the Cult of the Word / It said
+    they\u2019re a cult recently active in Washington State / So, it was their ritual
+    at the church that caught the attention of Casey and his federal lackeys...?
+    /"
+  delimiter: 47
+  displayDuration: 5

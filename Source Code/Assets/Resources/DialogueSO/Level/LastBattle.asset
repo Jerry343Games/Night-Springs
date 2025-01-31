@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb6ec9680ce1a19458af3704b4a6b2a7, type: 3}
+  m_Name: LastBattle
+  m_EditorClassIdentifier: 
+  fullText: "I fought Tyndale here, but he refused to let go of the crystal in his
+    hand / The altar was nearing completion / A deep fissure appeared upon it, unleashing
+    a nameless terror from within / Tyndale collapsed to the ground / I struggled
+    to resist the chaos pouring out of the rift and forced myself to look inside
+    / It seemed to be a figure in a suit\u2014a shadow slowly summoned from the fissure,
+    surrounded by an unrecognizable black mist / He picked up the crystal\u2014the
+    one pulsing with dark power\u2014from the ground / In an instant, I lost consciousness...
+    /... /... / When I opened my eyes, I was back in the familiar Writer's House
+    / I had returned to the beginning... / But... / In my hand, I held the dark,
+    glowing crystal /"
+  delimiter: 47
+  displayDuration: 3
